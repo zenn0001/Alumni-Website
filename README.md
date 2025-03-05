@@ -1,9 +1,9 @@
 # 🎓 CvSU Alumni Website
-This project is a dedicated alumni website for Cavite State University - Imus Campus, designed to:
+This website is made for the alumni of Cavite State University - Imus Campus to: <br>
 
-✅ Showcase Alumni Profiles – Featuring graduates with their names, courses, and profiles.
-✅ Highlight Achievements – A section to celebrate the success and journey of CvSU alumni.
-✅ Preserve Memories – Includes pages on the history of the university, alumni stories, and special events.
-✅ Provide Easy Navigation – A well-structured homepage, alumni directory, history, and memories section.
+✅ Showcase Alumni Profiles – A place where graduates can see their names, courses, and profiles. <br>
+✅ Share Achievements – A section to highlight the success and experiences of CvSU alumni. <br>
+✅ Keep Memories Alive – Includes university history, alumni stories, and special events. <br>
+✅ Simple & Easy to Navigate – Organized into different sections like homepage, alumni directory, and history page. <br>
 
-This website is built with HTML, CSS, Bootstrap, and JavaScript to deliver an engaging and user-friendly experience for alumni and students alike.
+This project was built using HTML, CSS, Bootstrap, and JavaScript, making it a simple but meaningful way to connect with alumni and preserve their journey at CvSU.
